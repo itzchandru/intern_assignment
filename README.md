@@ -1,2 +1,2 @@
-# intern_assignment
-Repository for Git and GitHub Assignment
+## Favorite Programming Language
+My favorite programming language is Python because of its simplicity and versatility.
